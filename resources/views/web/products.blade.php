@@ -1,5 +1,5 @@
 <x-layout>
-    <x-slot:title>{{ $title }}</x-slot>
-
-    <h3>Ini adalah halaman Products</h3>
+  <h1>Ini adalah halaman product</h1>
+  <x-card></x-card>
+  <x-alert></x-alert>
 </x-layout>
